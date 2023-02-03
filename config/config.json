@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "admin_dev",
+    "password": "qNbmhZTzTH2B4QGJ",
+    "database": "admin_dev",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "admin_test",
+    "password": "JO9S6A0Jx3y5Q2dv",
+    "database": "admin_test",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "admin_production",
+    "password": "ThSJI45pGsDOyHgA",
+    "database": "admin_production",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
